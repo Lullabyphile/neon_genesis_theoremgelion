@@ -46,6 +46,13 @@ const watchList = [
   "新世纪福音战士",
   "红辣椒",
   "摇曳百合",
+  "攻壳机动队",
+  "凉宫春日的忧郁",
+  "Panty & Stocking with Garterbelt",
+  "この素晴らしい世界に祝福を！",
+  "深海",
+  "超かぐや姫！",
+  "末日后酒店"
 ];
 
 const rhythms = [
@@ -79,6 +86,7 @@ export default function Home() {
           alt="ACGN-inspired math common room with chalkboards and an animation screening corner"
           fill
           priority
+          unoptimized
           sizes="100vw"
           className="absolute inset-0 h-full w-full object-cover"
         />
