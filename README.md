@@ -1,2 +1,2 @@
 # Neon_Genesis_Theoremgelion
-The website for Neon Genesis Theoremgelions.
+This designed to be the website for Neon Genesis Theoremgelions. 
